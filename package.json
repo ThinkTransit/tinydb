@@ -1,0 +1,18 @@
+{
+  "urls": [
+    ["tinydb/__init__.py", "github:ThinkTransit/tinydb/tinydb/__init__.py"]
+    ["tinydb/database.py", "github:ThinkTransit/tinydb/tinydb/database.py"]
+    ["tinydb/middlewares.py", "github:ThinkTransit/tinydb/tinydb/middlewares.py"]
+    ["tinydb/operations.py", "github:ThinkTransit/tinydb/tinydb/operations.py"]
+    ["tinydb/py.typed", "github:ThinkTransit/tinydb/tinydb/py.typed"]
+    ["tinydb/queries.py", "github:ThinkTransit/tinydb/tinydb/queries.py"]
+    ["tinydb/storages.py", "github:ThinkTransit/tinydb/tinydb/storages.py"]
+    ["tinydb/table.py", "github:ThinkTransit/tinydb/tinydb/table.py"]
+    ["tinydb/utils.py", "github:ThinkTransit/tinydb/tinydb/utils.py"]
+    ["tinydb/version.py", "github:ThinkTransit/tinydb/tinydb/version.py"]
+    
+  ],
+  "deps": [
+  ],
+  "version": "4.4.0"
+}
